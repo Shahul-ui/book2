@@ -1,0 +1,27 @@
+[
+ {
+   "ids": "Enzymatic-Shahul",
+   "labels": "Shahul",
+   "parents": ""
+ },
+ {
+   "ids": "Shahul-Degree",
+   "labels": "Degree",
+   "parents": "Enzymatic-Shahul"
+ },
+ {
+   "ids": "Shahul-Branch",
+   "labels": "Branch",
+   "parents": "Enzymatic-Shahul"
+ },
+ {
+   "ids": "Degree-BE",
+   "labels": "BE",
+   "parents": "Shahul-Degree"
+ },
+ {
+   "ids": "Branch-Btech",
+   "labels": "Btech",
+   "parents": "Shahul-Branch"
+ }
+]
